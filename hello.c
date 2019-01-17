@@ -6,5 +6,6 @@
 #include <stdio.h>
 	int main(void) {
 	printf("Aymen Alzaki\n");
+	printf("major: computer science");
 return 0;
 }
